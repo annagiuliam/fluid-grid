@@ -1,1 +1,1 @@
-# fluid-grid
+A simple project to start learning media queries.
